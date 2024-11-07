@@ -18,12 +18,13 @@
 <summary><button><kbd><kbd>CLICK</kbd> to see the portfolio!</kbd></button></summary>
 
 ### <a href="https://fosilavi.kor.tj">1.Freelance Platform </a>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+
 <img src="https://i.ibb.co/fYyQF3r/Screenshot-2024-11-07-at-22-05-29.png" alt="Image of freelance platform " width="800px"/>
 
 ### <a href="https://myvisa.ae">1.My Visa </a>
-
-<img src="https://i.ibb.co/cCbCSM2/Screenshot-2024-11-07-at-22-06-05.pn" alt="Image of myvsa website " width="800px"/>
-
 
 <blockquote>
   Submission of visa documents for the
@@ -35,9 +36,19 @@ for all devices using T ailwind CSS. Added multilingualism using ngx-translate
 for users in 2 languages.
 </blockquote>
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ 
+<img src="https://i.ibb.co/cCbCSM2/Screenshot-2024-11-07-at-22-06-05.png" alt="Image of myvsa website " width="800px"/>
+
+
+
 ### **2.POS System**
 
-<img src="https://i.ibb.co/Yhb9DBy/Screenshot-2024-11-07-at-22-01-48.png" alt="Image of POS system website " width="800px"/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <blockquote>
   Developing a system for automating business
@@ -47,8 +58,7 @@ Used the Ant-design library to simplify and quickly develop a modern
 interface. Connected to the backend API.
 </blockquote>
 
-
-
+<img src="https://i.ibb.co/Yhb9DBy/Screenshot-2024-11-07-at-22-01-48.png" alt="Image of POS system website " width="800px"/>
 
 
 </details>
