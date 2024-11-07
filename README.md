@@ -24,7 +24,7 @@
 
 <img src="https://i.ibb.co/fYyQF3r/Screenshot-2024-11-07-at-22-05-29.png" alt="Image of freelance platform " width="800px"/>
 
-### <a href="https://myvisa.ae">1.My Visa </a>
+### <a href="https://myvisa.ae">2.My Visa </a>
 
 <blockquote>
   Submission of visa documents for the
@@ -44,7 +44,7 @@ for users in 2 languages.
 
 
 
-### **2.POS System**
+### **3.POS System**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -60,5 +60,15 @@ interface. Connected to the backend API.
 
 <img src="https://i.ibb.co/Yhb9DBy/Screenshot-2024-11-07-at-22-01-48.png" alt="Image of POS system website " width="800px"/>
 
+### <a href="https://startupstan.org">Summit Startupstan 2024 </a>
 
+<blockquote>
+ Developed the entire Startupstan investor summit landing page from scratch and smooth animations for an engaging user experience. Built with custom design elements and fully integrated dynamic content, this page captivates visitors with a visually appealing, responsive layout. Created interactive sections, including an agenda with animations, ensuring seamless access on all devices with Tailwind CSS. Enhanced usability with adaptive design and captivating UI animations, delivering a top-notch experience for summit attendees."
+</blockquote>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ 
+<img src="https://i.ibb.co/gmt4gC8/Screenshot-2024-11-07-at-22-25-31.png" alt="Image of startupstan website " width="800px"/>
 </details>
