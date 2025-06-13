@@ -24,6 +24,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<img src="https://ibb.co/YFTNCF2Q" alt="Image of freelance platform " width="800px"/>
+<img src="https://i.ibb.co/ycBN9c0P/Screenshot-2025-06-13-164957.png" alt="Image of freelance platform " width="800px"/>
 
 </details>
