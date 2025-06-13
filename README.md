@@ -7,3 +7,23 @@
 **You can contact me here:** <br/>
 - **Telegram:** @abdu_gafor <br/>
 - **Email:** gafarovabdugafur@gmail.com
+
+## ✨ Portfolio
+<details>
+<summary><button><kbd><kbd>CLICK</kbd> to see the portfolio!</kbd></button></summary>
+  
+### <a href="https://surfswapapp.com">SurfSwap Exchanger</a>
+
+<blockquote>
+ 
+</blockquote>
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<img src="https://ibb.co/YFTNCF2Q" alt="Image of freelance platform " width="800px"/>
+
+</details>
