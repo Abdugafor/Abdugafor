@@ -15,7 +15,10 @@
 ### <a href="https://surfswapapp.com">SurfSwap Exchanger</a>
 
 <blockquote>
- 
+ Crypto app aggregates rates from multiple popular exchange services to find the best available price for any crypto swap. It automatically selects the optimal route and executes the transaction, ensuring users get maximum value with minimal effort.
+  
+  Developed from scratch to production
+  Stack: Javascript, Typescript, React , Redux Toolkit, TailwindCSS, RTK Query, CI/CD, Jest
 </blockquote>
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -24,6 +27,5 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<img src="https://i.ibb.co/ycBN9c0P/Screenshot-2025-06-13-164957.png" alt="Image of freelance platform " width="800px"/>
 
 </details>
