@@ -16,8 +16,8 @@
 
 <blockquote>
  Crypto app aggregates rates from multiple popular exchange services to find the best available price for any crypto swap. It automatically selects the optimal route and executes the transaction, ensuring users get maximum value with minimal effort.
-  
-  Developed from scratch to production
+  <br/>
+  Developed from scratch to production <br/>
   Stack: Javascript, Typescript, React , Redux Toolkit, TailwindCSS, RTK Query, CI/CD, Jest
 </blockquote>
 
