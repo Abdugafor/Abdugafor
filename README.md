@@ -8,23 +8,4 @@
 - **Telegram:** @abdu_gafor <br/>
 - **Email:** gafarovabdugafur@gmail.com
 
-## ✨ Portfolio
-<details>
-<summary><button><kbd><kbd>CLICK</kbd> to see the portfolio!</kbd></button></summary>
-  
-### <a href="https://surfswapapp.com">SurfSwap Exchanger</a>
 
-<blockquote>
- Crypto app aggregates rates from multiple popular exchange services to find the best available price for any crypto swap. It automatically selects the optimal route and executes the transaction, ensuring users get maximum value with minimal effort.
-  <br/>
-  Developed from scratch to production <br/>
-  Stack: Javascript, Typescript, React , Redux Toolkit, TailwindCSS, RTK Query, CI/CD, Jest
-</blockquote>
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</details>
